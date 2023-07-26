@@ -138,6 +138,7 @@ dmypy.json
 cython_debug/
 
 
-# 忽略天猫训练数据
+# 天猫训练数据
 天猫重复购买预测/data/
+
 
