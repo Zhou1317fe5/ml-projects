@@ -141,4 +141,7 @@ cython_debug/
 # 天猫训练数据
 天猫重复购买预测/data/
 
+#auto_push.sh
+auto_push.sh
+
 
