@@ -142,6 +142,10 @@ cython_debug/
 天猫重复购买预测/data/
 
 #auto_push.sh
-auto_push.sh
+z_auto_push.sh
+
+阿里云天池大赛赛题解析-机器学习篇 (天池平台) (Z-Library).pdf
+
+.gitignore
 
 
