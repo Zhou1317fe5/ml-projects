@@ -26,13 +26,13 @@
 
 **SEED2023第四届江苏大数据开发与应用大赛**
 
-​	**智慧交通赛题**
+​	**SEED智慧交通赛题**
 
 - GRU模型
 - lightgbm模型
 - LSTM模型
 
-​	**新能源赛题**
+​	**SEED新能源赛题**
 
 - baseline
 
@@ -46,13 +46,24 @@
 - 模型解释
 - 特征使用
 
+
+
 **电影评论的情感分析**
 
 - nlp入门项目-文本分类
 
+
+
 **贝叶斯危化品仓储风险分析**
 
 - 基于贝叶斯网络的危化品仓储风险预警分析
+
+
+
+**去噪扩散概率模型（DDPM）**
+
+-  PyTorch 中从头开始编写训练去噪扩散概率模型所需的所有基本组件。
+- 原文地址：https://learnopencv.com/denoising-diffusion-probabilistic-models/
 
 
 
@@ -63,4 +74,4 @@
 链接：https://pan.baidu.com/s/1u8cl99haGKLu5vg3ktQpaQ 
 提取码：45oz
 
-补充说明：数据集链接如果失效了，主页有邮箱，可以联系我。
+补充说明：数据集链接如果失效了，可提Issues或主页邮箱联系我。
